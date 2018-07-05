@@ -1,0 +1,22 @@
+--------------------------------+----------------------------------------------
+MOVEMENT:                       | COMMUNICATION:
+North South East West Up Down   | Say(') Gsay  Ask  Whisper     Shout  Quiet
+Look (direction)                | Report
+Sleep  Wake  Rest  Sit  Stand   | Read  Write
+Enter Leave  Exits              | Call  God  Tell    Pray (at altar)
+--------------------------------+----------------------------------------------
+OBJECTS:                        | INFORMATION:    Score  Inventory  Equipment
+Get(Take)   Drop  Give  Gsplit  | Help  Info  News  Credits  Wizlist
+Grab(Hold)  Wear  Wield         | Who Where Consider Levels (Wizhelp)
+Dip Pour         Put            +------------+---------------------------------
+Taste Eat        Sip Drink      | OTHER:     | SHOPS/RECEPTION/ATM:
+Lock Unlock      Open Close     | Hunt Push  | Buy Sell Value    Offer Rent
+Examine          Sacrifice      | Emote(,)   | Deposit Withdraw Balance
+--------------------------------+----------------------------------------------
+COMBAT:    Wimpy  Aggressive    | UTILITY:
+Kill  Flee Gmana  Assist        | ! Bug Idea Typo Quit Save Brief Compact
+(Kick Bash Rescue Backstab Cast)| Title Prompt Graphics
+--------------------------------+----------------------------------------------
+Also, do a HELP on one of the following...
+SOCIAL SHOPS INNS CLERIC WARRIOR THIEF MAGIC
+-------------------------------------------------------------------------------

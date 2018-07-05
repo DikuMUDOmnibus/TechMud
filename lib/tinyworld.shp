@@ -1,0 +1,541 @@
+#0~
+-1
+-1
+-1
+-1
+3010
+3011
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+3001
+0
+3009
+0
+28
+0
+0
+#1~
+-1
+-1
+-1
+-1
+3000
+3001
+1.1
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+3040
+0
+3007
+0
+28
+0
+0
+#3~
+5005
+3030
+3031
+3032
+3033
+6013
+1.5
+0.4
+0
+0
+1
+15
+17
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy containers and light sources. Try another shop.~
+%s I can't afford such an item now.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3002
+0
+3010
+0
+28
+0
+0
+#4~
+3078
+3079
+3080
+3081
+3082
+3083
+1.0
+0.5
+9
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armours.. Go away!~
+%s That is too expensive for me - Try a God!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3004
+0
+3020
+0
+28
+0
+0
+#6~
+3020
+3021
+3022
+3023
+3024
+-1
+1.1
+1.0
+5
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy weapons.. Go away!~
+%s That is too expensive for me - Try a God!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3003
+0
+3011
+0
+28
+0
+0
+#9~
+-1
+3040
+3041
+3042
+3043
+3044
+1.05
+0.15
+2
+3
+4
+10
+0
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3000
+0
+3033
+0
+28
+0
+0
+#10~
+3050
+3051
+-1
+-1
+-1
+-1
+1.2
+0.9
+22
+0
+0
+0
+0
+%s Sorry pal, I have not got that kind of ship.~
+%s Ok, but let me see it first.~
+%s I only trade ships.~
+%s I can't afford such a nice ship.~
+%s This ship is too expensive for you.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+0
+0
+3006
+0
+3049
+6
+22
+6
+22
+#11~
+-1
+3100
+3101
+3102
+-1
+-1
+1.1
+0.9
+0
+0
+0
+0
+0
+%s I got no such drink.~
+%s I see no such thing.~
+%s I do not buy, would you like a drink?~
+%s BUG, Please report~
+%s You can't afford such a fine drink, try the Grubby Inn.~
+%s Fine, that'll be %d gold pieces.~
+%s Bug, please report (%d).~
+0
+0
+3100
+0
+3106
+6
+23
+23
+24
+#12~
+-1
+-1
+-1
+-1
+3004
+3003
+1.0
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+3046
+0
+3048
+0
+28
+0
+0
+#14~
+3066
+3067
+3068
+3069
+3070
+3071
+1.1
+0.9
+9
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armours..~
+%s That is too expensive for me - Try a God!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3010
+0
+3035
+0
+28
+0
+0
+#15~
+3026
+3015
+3017
+3025
+7208
+-1
+1.5
+0.5
+1
+23
+24
+25
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy fine jewelry, watches, or cellular phones..~
+%s That is such an expensive item that I dare not possess it!~
+%s You can't afford it, you poor scum!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3009
+0
+3034
+0
+28
+0
+0
+#16~
+-1
+-1
+-1
+-1
+-1
+-1
+1.0
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+5006
+0
+5555
+0
+28
+0
+0
+#17~
+-1
+-1
+-1
+-1
+3000
+3001
+1.1
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+5008
+0
+5556
+0
+28
+0
+0
+#18~
+-1
+-1
+2
+1
+3034
+3035
+1.1
+.95
+0
+16
+21
+0
+0
+%s I've never heard of that.~
+%s I've never heard of that.~
+%s Please, this is a stationary store, I only buy pen and paper.~
+%s I'll take it for free - I can't give you enough gold.~
+%s Hmmm...you'd better check your wallet.~
+%s That costs %d. There you are!~
+%s Here's %d coins.~
+1
+0
+1418
+0
+1405
+0
+24
+0
+24
+#19~
+-1
+-1
+-1
+-1
+-1
+-1
+1.0
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+1420
+0
+1407
+0
+24
+0
+24
+#20~
+-1
+-1
+-1
+-1
+5006
+1403
+1
+1
+0
+0
+0
+0
+0
+%s You must be having a bad day.~
+%s I've never heard of that.  Tell me more about it.~
+%s I'm sorry - I don't buy that sort of thing.~
+%s Looks like I don't have enough gold.~
+%s Come back when you get some more money.~
+%s That will be %d coins.  Enjoy.~
+%s Bug.  Please report.~
+1
+0
+1419
+0
+1421
+0
+24
+0
+24
+#21~
+-1
+-1
+-1
+1410
+3002
+3100
+1
+1
+0
+0
+0
+0
+0
+%s Say what?~
+%s Say what?~
+%s I don't buy.~
+%s I can't afford that.~
+%s You can't afford that.~
+%s Your total is %d coins.~
+%s Bug.  Please report.~
+1
+0
+1413
+0
+1416
+0
+24
+0
+24
+#21~
+-1
+-1
+-1
+1410
+3002
+3100
+1
+1
+0
+0
+0
+0
+0
+%s Speak halfling, I can't understand you.~
+%s Speak halfling, I can't understand you.~
+%s Listen - I don't trade!~
+%s You're out of luck today - I don't have enough gold.~
+%s You're out of luck today - you don't have enough gold.~
+%s Your total comes to %d coins.~
+%s Bug.  Please report.~
+1
+0
+1430
+0
+1444
+0
+24
+0
+24
+$~

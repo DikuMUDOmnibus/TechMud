@@ -1,0 +1,54 @@
+You MUST do a 'help' on each of the following commands!!.
+
+   call,   sacrifice, god,    quiet,   gmana,    dip,      report,
+   wimpy,  prompt,    title,  gsplit,  balance,  withdraw, deposit,
+   push,   assist,    gsay,   hunt,    graphics, aggressive.
+
+---
+* terminators, cops, shiriffs.. all kill flagged people.
+  BONUS: terminator hunt them.. You cant hide.  They hunt you down.
+  Fixed many bugs.. Hunt table not stored in memory anymore! (saves memory)
+* graphics command put in. type help graphics for more info.
+* hunt works! muahahahahahahahaha.  Took awhile for my algorithm to work :)
+* now if you see more than 1 item that is same, you will see a number
+indicating how many there is. (instead of seeing duplicate description)
+Same applies to monsters.
+* gsay command put in.  do a help on gsay.
+* did assist command. you can assist players (or mobs, then you get flag)
+* fixed shopkeeper replying to you.
+* janitors now enter portals and teleporters i hope.
+* moved entrance to sewers.  it now has manhole cover.
+* clone command now works. (clone players!!!!)  the clones now talk.
+* enforcer terminator and replicants added in.
+* I've remapped the plains and moria!!!  It is now extremely easy to map
+them.  There are a lot of good armor in the moria now too.
+* Check the altar located in the plains! it has some important hmmm...
+* lowered price of general implant hospital!!  also remapped the area..
+easier to move around.  Go the the special altar there...
+* Added a hospital in shire (replaced the jewllery store).
+Added a general implant hospital in the plains.  Costs gold and exp.
+CHECK IT OUT! You can get max int, wis, con, etc.  and freedom from thirst.
+* Look up to see if you're indoors.  If you are outdoors and you look up,
+then you get to see the weather. (weather command taken out)
+* Added push command. You lose energy if you push someone.
+* Starship put in.  The teleporter is located at cathedral.  Moved the
+technoware store to starship, and put pet shop in it's place. To enter
+the teleporter, type 'enter teleporter'
+* Mana increases as you age and level. So be patient. it will go over 100.
+* If you have a watch, it beeps at every mud hour (or tick).  if you look
+at a watch or clock, it tells you the mud time.
+* Get a beeper, cellular phone, and cyberbeam.  They are useful for
+communication and light sources.
+* immortals can create portals.  if you see one, type 'enter portal'.
+This is same as the teleporter, but it disintegrates in certain time.
+* If you have been given a NEWBIE or AWARD previlege.  Go to the
+altar north of Cathedral and 'pray'.  You will attain your NEWBIE
+package, or AWARD package, respectively.
+* You get KILLER and THIEF flags if you kill or steal from PC's.
+Once you get these flags, CyberCop's will attempt to attack you.
+You can attack people with these flags, and you wont get the flag.
+Only gods can pardon you once you get the flags.
+* as you level, you get to see more of your stats.
+* added atm and shire.
+* rent now costs 100 per item per day, and you can rent 25 items max.
+* added a ton of commands.  look at the beginning of this file.

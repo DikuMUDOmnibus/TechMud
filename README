@@ -1,0 +1,46 @@
+What you have here is technopolis TechMud version C3.  If you run this mud, 
+and have comments suggestions, or want to know when how to get version C,
+Please feel free to contact me at...
+
+P. Lin
+POB 1266,
+Alhambra, CA 91802.
+USA
+
+---
+Some things you must be aware of in this mud that differs from standard Diku.
+First of all, the shops can produce six items. so when you add shops, make sure
+you have six items.  Another is that I put in a hunt command which takes
+extra precautions to get it to work.  Go into the lib and read about it.
+
+
+TechMud is an adaptation of Dikumud, Please read the following that came with
+the original DikuMud distribution. The changes made applies to the license
+in the docs also.
+
+----
+
+
+NOTE: Copying, redistributing, or using any part of DikuMUD without reading
+      doc/licence.doc is in violation of our copyright.
+
+To compile the game, just type 'make', and cross your fingers. So far, the game
+has been successfully ported to these machines:
+
+VAX 11/785      - Unix-BSD 4.3 (it was written on one of these babies)
+Sun 4           - Unix
+Sun 3 (I think) - Unix
+
+plus lots of others... we've lost track.
+
+We are, of course, very interested in expanding this list. If you successfully
+compile and run the game on a machine not mentioned above, please send us a 
+word.
+
+See doc/running.doc for some hints on how to run the game - and try 'wizhelp'
+in the game itself.
+
+If you run into trouble whilst compiling or running the game, we'll be happy
+to try and help you out. Send email to:
+
+  quinn@freja.diku.dk or one of the other people from the 'credits' file.
